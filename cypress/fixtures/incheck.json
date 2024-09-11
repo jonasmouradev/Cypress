@@ -2,91 +2,109 @@
   {
     "title": "Controle Interno Financeiro",
     "description": "Analisar os controles e processos financeiros para garantir precisão e prevenção de fraudes.",
-    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768"
+    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768",
+    "id": 0
   },
   {
     "title": "Gestão de Risco",
     "description": "Avaliar a eficácia das estratégias de gestão de risco e a identificação de riscos potenciais.",
-    "quiz_id": "9ce466d8-5683-425c-95a8-835a758fd3b7"
+    "quiz_id": "9ce466d8-5683-425c-95a8-835a758fd3b7",
+    "id": 1
   },
   {
     "title": "Eficiência Operacional",
     "description": "Examinar a eficiência dos processos e operações para identificar áreas de melhoria.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 2
   },
   {
     "title": "Compliance Ambiental",
     "description": "Verificar se a empresa está cumprindo com as normas e regulamentos ambientais.",
-    "quiz_id": "9ce46673-f462-4d81-a423-45798cd30190"
+    "quiz_id": "9ce46673-f462-4d81-a423-45798cd30190",
+    "id": 3
   },
   {
     "title": "Auditoria de TI",
     "description": "Avaliar a infraestrutura de TI, segurança cibernética e a conformidade com políticas de TI.",
-    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768"
+    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768",
+    "id": 4
   },
   {
     "title": "Governança Corporativa",
     "description": "Analisar a estrutura de governança da empresa, incluindo o papel do conselho e comitês.",
-    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768"
+    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768",
+    "id": 5
   },
   {
     "title": "Gestão de Projetos",
     "description": "Avaliar a eficácia e a eficiência na gestão de projetos e a aderência a prazos e orçamentos.",
-    "quiz_id": "9ce466d8-5683-425c-95a8-835a758fd3b7"
+    "quiz_id": "9ce466d8-5683-425c-95a8-835a758fd3b7",
+    "id": 6
   },
   {
     "title": "Auditoria de Contratos",
     "description": "Verificar a conformidade com os termos e condições dos contratos e acordos.",
-    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768"
+    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768",
+    "id": 7
   },
   {
     "title": "Controle de Estoque",
     "description": "Avaliar os processos de controle e gestão de inventário para garantir precisão e minimizar perdas.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 8
   },
   {
     "title": "Responsabilidade Social Corporativa",
     "description": "Examinar as práticas e políticas de responsabilidade social e seu impacto na comunidade e stakeholders.",
-    "quiz_id": "9ce46673-f462-4d81-a423-45798cd30190"
+    "quiz_id": "9ce46673-f462-4d81-a423-45798cd30190",
+    "id": 9
   },
   {
     "title": "Gestão de Fornecedores",
     "description": "Avaliar a seleção, gestão e desempenho dos fornecedores e parceiros comerciais.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 10
   },
   {
     "title": "Auditoria de Custos",
     "description": "Analisar a alocação e controle de custos em diferentes áreas da empresa.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 11
   },
   {
     "title": "Auditoria de Recursos Humanos",
     "description": "Avaliar a conformidade com as leis trabalhistas e a eficácia das práticas de gestão de pessoal.",
-    "quiz_id":
+    "quiz_id": "9ce468f8-33a5-4387-b12a-0a68bee1fdca",
+    "id": 12
   },
   {
     "title": "Compliance Fiscal",
     "description": "Verificar a conformidade com as obrigações fiscais e tributárias.",
-    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768"
+    "quiz_id": "9ce466ab-63a8-4a9f-bd67-0277b9d21768",
+    "id": 13
   },
   {
     "title": "Auditoria de Desempenho",
     "description": "Avaliar a eficácia geral da organização em atingir seus objetivos e metas.",
-    "quiz_id": "9ce466d8-5683-425c-95a8-835a758fd3b7"
+    "quiz_id": "9ce466d8-5683-425c-95a8-835a758fd3b7",
+    "id": 14
   },
   {
     "title": "Gestão de Qualidade",
     "description": "Examinar os processos e controles de qualidade para garantir a consistência e conformidade dos produtos ou serviços.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 15
   },
   {
     "title": "Auditoria de Aquisições",
     "description": "Avaliar os processos de aquisição e compra para garantir conformidade e eficiência.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 16
   },
   {
     "title": "Segurança Física",
     "description": "Avaliar as medidas de segurança física e a proteção das instalações e ativos da empresa.",
-    "quiz_id":
+    "quiz_id": "9ce469a1-11ec-4e55-95b3-09ad7e294b19",
+    "id": 17
   }
 ]
